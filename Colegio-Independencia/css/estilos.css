@@ -1,0 +1,174 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar{
+    width: 100%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.logo img{
+    max-width:50px; 
+    width: auto; 
+    height: auto;
+}
+
+.container a{
+    text-decoration: none;
+    text-align: center;
+}
+
+.logo{
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+}
+
+.boton{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.boton:hover{
+    text-decoration: none;
+    color: crimson;
+}
+
+.carousel-img{
+    width: 100%;
+    height: auto;
+}
+
+.img{
+    width: 100%;
+    height: auto;
+}
+
+.centrar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenido{
+    padding: 40px;
+    background-color: #FCFCFC;
+}
+
+.contenido2{
+    padding: 40px;
+    background-color: rgb(190, 23, 57);
+}
+
+.titulo{
+    text-align: center;
+    color: black;
+}
+
+.titulo2{
+    text-align: center;
+    color: white;
+}
+
+.video{
+    max-width: 100%;
+    height: auto;
+    min-height: 100%;
+    
+}
+
+.degradado{
+    background-image: radial-gradient(circle, #ffffff, #dc143c);
+}
+
+.car-img{
+    max-width: 30%;
+    height: auto;
+}
+
+.textoizquierda{
+    text-align: left;
+}
+
+.textoderecha{
+    text-align: right;
+}
+
+.textojustificado{
+    text-align: justify;
+}
+.cardimg{
+    width: 50%;
+    height: auto;
+}
+
+.footersection{
+    padding: 50px;
+    color: white;
+    text-align: center;
+    background-color: crimson;
+}
+
+.imgfooter{
+    max-width: 150px;
+    height: auto;
+    margin-top: 30px;
+}
+
+.textosfooter{
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+}
+
+.linea{
+    min-width: 100%;
+    width: 100%;
+    height: 5px;
+    background-color: white;
+    color: white;
+    margin-top: 10px;
+}
+
+.linea2{
+    min-width: 100%;
+    width: 100%;
+    height: 5px;
+    background-color: white;
+    color: white;
+}
+
+.icon{
+    width: 35px;
+    height: 35px;
+    margin: 10px;
+}
+
+.imgcarousel{
+    max-height: 600px;
+    width: auto;
+}
+
+.carouselsection{
+    max-width: 70%;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+
+.derecha{
+    display: flex;
+    align-items: right;
+    justify-content: right;
+}
+
+.izquierda{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+}
